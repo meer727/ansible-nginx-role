@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Ansible retry files
+*.retry
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ansible temporary files
+.ansible/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store

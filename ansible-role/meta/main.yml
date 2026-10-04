@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Ansible Role POC
-  description: Ansible role for deploying a simple Nginx application
+  description: Reusable Ansible role for installing Nginx and deploying a customizable web page
   company: POC
   license: MIT
   min_ansible_version: "2.16"
